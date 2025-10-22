@@ -1,0 +1,42 @@
+.top-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.header {
+    max-width: 600px;
+    background-color: antiquewhite;
+    margin: auto;
+}
+
+.global-nav {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+
+}
+
+.nav-link {
+    padding: 10px;
+}
+
+.wrapper {
+    max-width: 600px;
+    background-color: azure;
+    margin: auto;
+    display: flex;
+}
+
+.main {
+    padding: 20px;
+    background-color: aquamarine;
+}
+
+.sidebar {
+    padding: 20px;
+    background-color: beige;
+    margin-right: 10px;
+}
+
